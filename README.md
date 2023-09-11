@@ -1,13 +1,14 @@
-Olá! Bem-vindo(a) ao meu repositório!
+# Olá! Bem-vindo(a) ao meu repositório!
+<br>
 
-Minha experiência:
+## Minha experiência:
+• 🌐 Tenho experiência em trabalhar com Spark, SQL, Python e suas bibliotecas para Ciência de Dados e Machine Learning<br>
+• 🎲 Trabalho como freelancer analista de dados <br>
+• 📧 Quer entrar em contato comigo? Envie um e-mail para matheussolanoadv@gmail.com <br>
 
-• 🌐 Tenho experiência em trabalhar com Spark, SQL, Python e suas bibliotecas para Ciência de Dados e Machine Learning
-• 🎲 Trabalho como freelancer analista de dados
-• 📧 Quer entrar em contato comigo? Envie um e-mail para matheussolanoadv@gmail.com
 
 
-Hard Skills:
+### Hard Skills:
 • Python (scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, flask)
 
 • SQL
@@ -23,9 +24,9 @@ Hard Skills:
 • JavaScript
 
 • Git & Version Control
-
-
-Soft Skills:
+<br>
+<br>
+### Soft Skills:
 • Comunicativo
 
 • Trabalho em equipe
