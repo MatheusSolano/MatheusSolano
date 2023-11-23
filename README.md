@@ -4,7 +4,7 @@
 ## Minha experiência:
 • 🌐 Tenho experiência em trabalhar com Spark, SQL, Python e suas bibliotecas para Ciência de Dados e Machine Learning<br>
 • 🎲 Trabalho como freelancer analista de dados <br>
-• 🗣 Experiência como Data Quality na área de Supply Chain<br>
+• 🗣 Experiência com Data Quality na área de Supply Chain<br>
 • 📧 Quer entrar em contato comigo? Envie um e-mail para matheussolanoadv@gmail.com <br>
 
 
