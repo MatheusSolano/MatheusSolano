@@ -4,13 +4,13 @@
 ## Minha experiência:
 • 🌐 Tenho experiência em trabalhar com Spark, SQL, Python e suas bibliotecas para Ciência de Dados e Machine Learning<br>
 • 🎲 Trabalho como freelancer analista de dados <br>
-• 🗣 Experiência como Customer Support na área de Supply Chain<br>
+• 🗣 Experiência como Data Quality na área de Supply Chain<br>
 • 📧 Quer entrar em contato comigo? Envie um e-mail para matheussolanoadv@gmail.com <br>
 
 
 
 ### Hard Skills:
-• Python (scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, flask)
+• Python (scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, flask, open-CV, YOLO)
 
 • SQL
 
